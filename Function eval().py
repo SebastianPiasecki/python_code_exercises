@@ -1,10 +1,11 @@
 var_x = 10
-password = 'My super secret password'
+password = 'Oliwiowice'
 
-source = 'var_x + 2'
+source = input("co mam zrobic")
 
 result = eval(source)
 print(result)
+
 
 # disadvantages - the user can enter a variable 'password' and retrieve our password
 

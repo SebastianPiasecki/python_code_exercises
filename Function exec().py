@@ -1,6 +1,6 @@
 var_x = 10
 var_y = 10
-source = 'var_x = 4'
+source = input("wprowadz zmienna dostępu do minecraft")
 
 result = exec(source)
 
