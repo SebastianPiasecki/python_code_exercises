@@ -1,5 +1,3 @@
-from dis import Instruction
-
 
 def buy_me(what):
     print('Give me', what)
