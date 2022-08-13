@@ -32,7 +32,6 @@ print(f_subs(10, 20, 30))
 
 print('*' * 30)
 
-#zrób zadanie
 
 from datetime import datetime
 import secrets
